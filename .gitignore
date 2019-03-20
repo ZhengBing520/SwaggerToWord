@@ -1,0 +1,12 @@
+.idea/
+.gradle/
+build/
+*.iml
+*.log
+application-*.yml
+.DS_Store
+*.class
+*.jar
+*.war
+*.ear
+out/
